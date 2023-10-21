@@ -1,5 +1,5 @@
 # Logistic-Regression-Model-for-Credit-Risk-Assessment
-This project involves the analysis of the South German Credit Data from the University of California, Irvine. The dataset is designed to classify individuals as either good or bad credit risks based on a set of attributes.
+This project involves the analysis of the South German Credit Data from the University of California, Irvine (UCI) Machine Learning Repository. The dataset is designed to classify individuals as either good or bad credit risks based on a set of attributes.
 
 ## 📺 Project Description
 Credit risk assessment is a fundamental process in the financial industry, crucial for evaluating the creditworthiness of individuals, companies, or entities seeking loans or credit agreements. Lenders, banks, financial institutions, and other credit providers rely on accurate assessments to make informed lending decisions. The objective of this GitHub project is to develop, implement, and share a Logistic Regression Model specifically designed for credit risk assessment.
@@ -18,6 +18,9 @@ Credit risk assessment presents several challenges, including:
 
 ## Dataset Description
 The "South German Credit" dataset contains 1000 records representing individuals who applied for loans at a German bank. It includes the outcome of these loan applications, indicating whether they were approved or not. The approval decision is based on the bank's assessment of the applicant's ability to meet their loan repayment obligations.
+
+**Source:**
+The dataset can be accessed on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/south+german+credit).
 
 ### Attributes
 * 20 variables, including 3 continuous and 17 categorical attributes.
