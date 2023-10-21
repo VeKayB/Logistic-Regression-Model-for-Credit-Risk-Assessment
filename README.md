@@ -58,7 +58,7 @@ This section contains a brief description for each attribute.
 * Customer's history of previous loans.
 * A variable named "Credit Risk" (0 = bad, 1 = good) classifying customers as either good or bad payers.
 
-**Preprocessing Steps:**
+### Preprocessing Steps:
 
 Before using the dataset for analysis and modeling, certain preprocessing steps were applied to ensure data quality and suitability for the project:
 
