@@ -4,6 +4,18 @@ This project involves the analysis of the South German Credit Data from the Univ
 ## 📺 Project Description
 Credit risk assessment is a fundamental process in the financial industry, crucial for evaluating the creditworthiness of individuals, companies, or entities seeking loans or credit agreements. Lenders, banks, financial institutions, and other credit providers rely on accurate assessments to make informed lending decisions. The objective of this GitHub project is to develop, implement, and share a Logistic Regression Model specifically designed for credit risk assessment.
 
+### Challenges in Credit Risk Assessment
+
+Credit risk assessment presents several challenges, including:
+
+- **Data Complexity:** Credit data can be highly complex, often comprising a mix of numerical and categorical data. Dealing with this complexity requires advanced modeling techniques.
+
+- **Dynamic Market Conditions:** Financial markets and economic conditions are constantly changing. Models need to adapt to new market dynamics and economic trends.
+
+- **Imbalanced Data:** In many cases, good credit applicants significantly outnumber bad credit applicants. This class imbalance can make model training and evaluation tricky.
+
+- **Model Transparency:** Given the legal and ethical implications of credit decisions, model transparency is essential. It should be possible to explain why a particular decision was made.
+
 ## Dataset Description
 The "South German Credit" dataset contains 1000 records representing individuals who applied for loans at a German bank. It includes the outcome of these loan applications, indicating whether they were approved or not. The approval decision is based on the bank's assessment of the applicant's ability to meet their loan repayment obligations.
 
